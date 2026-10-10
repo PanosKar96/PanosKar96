@@ -56,10 +56,11 @@ I am a Technical Applications student and front-end developer focused on writing
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=PanosKar96&theme=calm_pink&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=PanosKar96&theme=calm_pink" alt="GitHub contribution streak" />
+  <img width="495" src="https://github-readme-stats.shion.dev/api?username=PanosKar96&theme=calm_pink&include_all_commits=true&count_private=true&card_width=495" alt="GitHub statistics" />
   <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PanosKar96&theme=calm_pink&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" />
+  <img width="495" src="https://streak-stats.demolab.com/?user=PanosKar96&theme=calm_pink" alt="GitHub contribution streak" />
+  <br />
+  <img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PanosKar96&theme=calm_pink&include_all_commits=true&count_private=true&layout=compact&card_width=495" alt="Most used languages" />
 </div>
 
 ## GitHub Trophies
@@ -70,9 +71,11 @@ I am a Technical Applications student and front-end developer focused on writing
 
 ## Support My Work
 
-If you find my work useful, you can support its development on Ko-fi.
+<p align="center">If you find my work useful, you can support its development on Ko-fi.</p>
 
-<a href="https://ko-fi.com/cloudtopbuilds"><img src="https://img.shields.io/badge/Support%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" /></a>
+<p align="center">
+  <a href="https://ko-fi.com/cloudtopbuilds"><img src="https://img.shields.io/badge/Support%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" /></a>
+</p>
 
 ---
 
