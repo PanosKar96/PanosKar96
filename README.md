@@ -15,10 +15,10 @@
 
 ## About Me
 
-I am a Technical Applications student and front-end developer focused on writing clean, maintainable code and building web applications that people enjoy using. Alongside web development, I design and build games, and I share that work on my YouTube channel, [CloudTopBuilds](https://www.youtube.com/@CloudTopBuilds).
+I am a Technical Applications student and front-end developer focused on writing clean, maintainable code and building web applications that people enjoy using. Alongside web development, I aspire to design and build my own games, and I am working toward turning that ambition into finished, playable projects.
 
 - Building responsive, accessible web interfaces with modern JavaScript frameworks
-- Developing games in Unity with C#, including the art and assets behind them
+- Working toward designing and building my own games in Unity with C#, including the art and assets behind them
 - Continuously learning, experimenting, and refining my craft
 
 ## Tech Stack
@@ -70,7 +70,7 @@ I am a Technical Applications student and front-end developer focused on writing
 
 ## Support My Work
 
-If you find my projects or videos useful, you can support their development on Ko-fi.
+If you find my work useful, you can support its development on Ko-fi.
 
 <a href="https://ko-fi.com/cloudtopbuilds"><img src="https://img.shields.io/badge/Support%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" /></a>
 
