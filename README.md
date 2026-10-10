@@ -66,7 +66,7 @@ I am a Technical Applications student and front-end developer focused on writing
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=PanosKar96&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=PanosKar96&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
 </div>
 
 ## Support My Work
@@ -80,7 +80,7 @@ I am a Technical Applications student and front-end developer focused on writing
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PanosKar96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=PanosKar96%2FPanosKar96&label=Profile%20views&countColor=%230e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
